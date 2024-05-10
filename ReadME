@@ -88,8 +88,4 @@ Matplotlib: Chosen for its simplicity and power in displaying 2D graphics, it al
 Fine-Tuning and Adaptations:
 We modified the heuristic function for the A* algorithm to adjust to various maze complexities, allowing more accurate predictions in complex maze structures.
 
-Results
-
-
-Graph displaying the number of cells each algorithm visited before reaching the goal
 
